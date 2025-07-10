@@ -4,8 +4,8 @@
 //with imgui_freetype.h api
 //docking branch
 
-#include "./imgui/imgui.h"
-#include "./imgui/imgui_internal.h"
+#include "imgui.h"
+#include "imgui_internal.h"
 #include "cimgui.h"
 
 

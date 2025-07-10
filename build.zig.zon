@@ -1,0 +1,16 @@
+.{
+    .name = .cimgui,
+    .version = "0.1.0",
+    .fingerprint = 0x49726f5fb322165f,
+    .minimum_zig_version = "0.14.1",
+
+    .dependencies = .{
+        .imgui = .{
+            .url = "git+https://github.com/ocornut/imgui.git#44aa9a4b3a6f27d09a4eb5770d095cbd376dfc4b",
+            .hash = "N-V-__8AAMSpeAAjIlPRk36GN81oqHOrwAtfmTZdOcDg42BM",
+        },
+    },
+    .paths = .{
+        "",
+    },
+}
